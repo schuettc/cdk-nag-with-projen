@@ -1216,7 +1216,7 @@ available-typed-arrays@^1.0.7:
   dependencies:
     possible-typed-array-names "^1.0.0"
 
-aws-cdk-lib@^2.1.0:
+aws-cdk-lib@^2.141.0:
   version "2.142.0"
   resolved "https://registry.yarnpkg.com/aws-cdk-lib/-/aws-cdk-lib-2.142.0.tgz#afae300bfb67d6f7491a603660ab85ede464b384"
   integrity sha512-WQc+1jk6mC3QrJnWyvZCmjQHcBcsrhSP3rCqLVvDcjOiZIvCRUHXDtkVmB5iUgaf2RhPu15sPwYegkCPpa7afQ==
@@ -1236,7 +1236,7 @@ aws-cdk-lib@^2.1.0:
     table "^6.8.2"
     yaml "1.10.2"
 
-aws-cdk@^2.1.0:
+aws-cdk@^2.141.0:
   version "2.142.0"
   resolved "https://registry.yarnpkg.com/aws-cdk/-/aws-cdk-2.142.0.tgz#36a88d3e89b462d981b0b1e65a6bfa37220d1e28"
   integrity sha512-vrEO02gY2G+38GIbYpYyR9/+KZV2ZE0MgGG3a515IkU6lHU3CkebxIgsmO4gHwFXNsePwcnAq3HQXhCS8SfXmw==
@@ -1394,6 +1394,11 @@ case@1.6.3, case@^1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/case/-/case-1.6.3.tgz#0a4386e3e9825351ca2e6216c60467ff5f1ea1c9"
   integrity sha512-mzDSXIPaFwVDvZAHqZ9VlbyF4yyXRuX6IvB06WvPYkqJVO24kX1PPhv9bfpKNFZyxYFmmgo03HUiD8iklmJYRQ==
+
+cdk-nag@^2.28.117:
+  version "2.28.117"
+  resolved "https://registry.yarnpkg.com/cdk-nag/-/cdk-nag-2.28.117.tgz#044971a6b952a072a24383c36ee321ba4a2ea8e2"
+  integrity sha512-HWF6pAFktUEet84UreWGsrTluFwIxDb9YZNnvOQiKGMy3ANJxDuAuOWrmAojgk/i56uwVaHjS7igB65LXEbONQ==
 
 chalk@^2.4.2:
   version "2.4.2"
